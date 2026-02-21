@@ -1,0 +1,15 @@
+Python 3.10
+
+Webcam
+
+Windows 10 / 11
+
+opencv-python
+
+mediapipe (0.10.9)
+
+pycaw (20220416)
+
+numpy
+
+comtypes
